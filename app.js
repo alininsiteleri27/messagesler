@@ -1,12 +1,12 @@
 // ========== FIREBASE CONFIGURATION ==========
 // Firebase config - Buraya kendi Firebase bilgilerinizi ekleyin
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyDyGNrzw1a55LHv-LP5gjuPpFWmHu1a6yU",
+    authDomain: "ali23-cfd02.firebaseapp.com",
+    projectId: "ali23-cfd02",
+    storageBucket: "ali23-cfd02.firebasestorage.app",
+    messagingSenderId: "759021285078",
+    appId: "1:759021285078:web:f7673f89125ff3dad66377"
 };
 
 // Firebase initialization - Bu kısım Firebase SDK'sı yüklendikten sonra çalışacak
